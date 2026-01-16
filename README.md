@@ -43,7 +43,7 @@ bash
 python lottery_probability.py
 
 📈 Sample Output
-text
+
 
 --------------------------------------------------------------------------------------------------------
 Matches: 0 -- Probability: 43.5965% | Cumulative: 43.5965% | 1 From 2.3 cases
