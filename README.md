@@ -44,21 +44,19 @@ python lottery_probability.py
 
 📈 Sample Output
 
-
---------------------------------------------------------------------------------------------------------
 Matches: 0 -- Probability: 43.5965% | Cumulative: 43.5965% | 1 From 2.3 cases
 Matches: 1 -- Probability: 41.3019% | Cumulative: 84.8984% | 1 From 2.4 cases
 Matches: 2 -- Probability: 13.2378% | Cumulative: 98.1362% | 1 From 7.6 cases
 Matches: 3 -- Probability: 1.7650% | Cumulative: 99.9013% | 1 From 56.7 cases
-Matches: 4 -- Probability: 0.0969% | Cumulative: 99.9981% | 1 From 1,032.4 cases
-Matches: 5 -- Probability: 0.0018% | Cumulative: 99.9999% | 1 From 54,200.8 cases
-Matches: 6 -- Probability: 0.0000% | Cumulative: 100.0000% | 1 From 13,983,816.0 cases
---------------------------------------------------------------------------------------------------------
+Matches: 4 -- Probability: 0.0969% | Cumulative: 99.9981% | 1 From 1_032.4 cases
+Matches: 5 -- Probability: 0.0018% | Cumulative: 100.0000% | 1 From 54_200.8 cases
+Matches: 6 -- Probability: 0.0000% | Cumulative: 100.0000% | 1 From 13_983_816.0 cases
+
 Statistics: 
 Average value (μ): 0.7347
-Variance (σ²): 0.5770
-Standard deviation (σ): 0.7596
---------------------------------------------------------------------------------------------------------
+Variance (σ²): 0.5776
+Standard deviation (σ): 0.7600
+
 
 🔢 Key Results
 
