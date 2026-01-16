@@ -1,6 +1,8 @@
 Lottery Probability Calculator
 
 A Python implementation of the hypergeometric distribution for calculating exact lottery probabilities.
+
+
 📊 Overview
 
 This tool calculates the exact probability distribution for lottery games using combinatorial mathematics. It's perfect for analyzing games like 6/49, where you need to understand your real chances of winning.
